@@ -18,7 +18,7 @@
 
 # 界面截图
 
-  # 1、用户端
+  # 1、用户端、
 
 ![extending-a-theme](/01.png)
 ![extending-a-theme](/02.png)
